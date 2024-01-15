@@ -7,6 +7,7 @@
       "email": "john@example.com",
       "phone": "112345678",
       "website": "johndoe.com",
+      "IsLink": false,
       "address": {
         "street": "123 Street",
         "suite": "Apt 45",
@@ -24,6 +25,7 @@
       "email": "sachin@.com",
       "phone": "112345678",
       "website": "sachin.com",
+      "IsLink":false,
       "address": {
         "street": "123 Street",
         "suite": "Apt 45",
@@ -41,6 +43,7 @@
       "email": "abhishek@example.com",
       "phone": "112345678",
       "website": "abhishek.com",
+      "IsLink":false,
       "address": {
         "street": "123 Street",
         "suite": "Apt 45",
@@ -58,6 +61,7 @@
       "email": "aman@example.com",
       "phone": "112345678",
       "website": "aman.com",
+      "IsLink":false,
       "address": {
         "street": "123 Street",
         "suite": "Apt 45",
@@ -75,6 +79,7 @@
       "email": "raj@example.com",
       "phone": "112345678",
       "website": "raj.com",
+      "IsLink":false,
       "address": {
         "street": "123 Street",
         "suite": "Apt 45",
@@ -92,6 +97,7 @@
       "email": "neel@example.com",
       "phone": "112345678",
       "website": "neel.com",
+      "IsLink":false,
       "address": {
         "street": "123 Street",
         "suite": "Apt 45",
@@ -109,6 +115,7 @@
       "email": "john@example.com",
       "phone": "112345678",
       "website": "johndoe.com",
+      "IsLink":false,
       "address": {
         "street": "123 Street",
         "suite": "Apt 45",
@@ -126,6 +133,7 @@
       "email": "krish@.com",
       "phone": "112345678",
       "website": "krish.com",
+      "IsLink":false,
       "address": {
         "street": "123 Street",
         "suite": "Apt 45",
@@ -143,23 +151,7 @@
       "email": "lucky@example.com",
       "phone": "112345678",
       "website": "lucky.com",
-      "address": {
-        "street": "123 Street",
-        "suite": "Apt 45",
-        "city": "Cityville",
-        "zipcode": "12345"
-      },
-      "company": {
-        "name": "loginext Company"
-      }
-    },
-    {
-      "id": 4,
-      "username": "kiran12",
-      "name": "kiran",
-      "email": "kiran@example.com",
-      "phone": "112345678",
-      "website": "kiran.com",
+      "IsLink":false,
       "address": {
         "street": "123 Street",
         "suite": "Apt 45",
@@ -177,6 +169,7 @@
       "email": "mihir@example.com",
       "phone": "112345678",
       "website": "mihir.com",
+      "IsLink":false,
       "address": {
         "street": "123 Street",
         "suite": "Apt 45",
