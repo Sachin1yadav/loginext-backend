@@ -1,0 +1,191 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "psamd",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "112345678",
+      "website": "johndoe.com",
+      "address": {
+        "street": "123 Street",
+        "suite": "Apt 45",
+        "city": "Cityville",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "loginext Company"
+      }
+    },
+    {
+      "id": 2,
+      "username": "sachin12",
+      "name": "sachin yadav",
+      "email": "sachin@.com",
+      "phone": "112345678",
+      "website": "sachin.com",
+      "address": {
+        "street": "123 Street",
+        "suite": "Apt 45",
+        "city": "Cityville",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "loginext Company"
+      }
+    },
+    {
+      "id": 3,
+      "username": "abhishek12",
+      "name": "abhishek",
+      "email": "abhishek@example.com",
+      "phone": "112345678",
+      "website": "abhishek.com",
+      "address": {
+        "street": "123 Street",
+        "suite": "Apt 45",
+        "city": "Cityville",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "loginext Company"
+      }
+    },
+    {
+      "id": 4,
+      "username": "aman12",
+      "name": "aman Doe",
+      "email": "aman@example.com",
+      "phone": "112345678",
+      "website": "aman.com",
+      "address": {
+        "street": "123 Street",
+        "suite": "Apt 45",
+        "city": "Cityville",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "loginext Company"
+      }
+    },
+    {
+      "id": 5,
+      "username": "raj12",
+      "name": "raj Doe",
+      "email": "raj@example.com",
+      "phone": "112345678",
+      "website": "raj.com",
+      "address": {
+        "street": "123 Street",
+        "suite": "Apt 45",
+        "city": "Cityville",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "loginext Company"
+      }
+    },
+    {
+      "id": 6,
+      "username": "neel",
+      "name": "neel Doe",
+      "email": "neel@example.com",
+      "phone": "112345678",
+      "website": "neel.com",
+      "address": {
+        "street": "123 Street",
+        "suite": "Apt 45",
+        "city": "Cityville",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "loginext Company"
+      }
+    },
+    {
+      "id": 7,
+      "username": "aadi2",
+      "name": "Aadi",
+      "email": "john@example.com",
+      "phone": "112345678",
+      "website": "johndoe.com",
+      "address": {
+        "street": "123 Street",
+        "suite": "Apt 45",
+        "city": "Cityville",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "loginext Company"
+      }
+    },
+    {
+      "id": 8,
+      "username": "krish12",
+      "name": "krish",
+      "email": "krish@.com",
+      "phone": "112345678",
+      "website": "krish.com",
+      "address": {
+        "street": "123 Street",
+        "suite": "Apt 45",
+        "city": "Cityville",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "loginext Company"
+      }
+    },
+    {
+      "id": 9,
+      "username": "lucky12",
+      "name": "lucky",
+      "email": "lucky@example.com",
+      "phone": "112345678",
+      "website": "lucky.com",
+      "address": {
+        "street": "123 Street",
+        "suite": "Apt 45",
+        "city": "Cityville",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "loginext Company"
+      }
+    },
+    {
+      "id": 4,
+      "username": "kiran12",
+      "name": "kiran",
+      "email": "kiran@example.com",
+      "phone": "112345678",
+      "website": "kiran.com",
+      "address": {
+        "street": "123 Street",
+        "suite": "Apt 45",
+        "city": "Cityville",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "loginext Company"
+      }
+    },
+    {
+      "id": 10,
+      "username": "mihir12",
+      "name": "mihir",
+      "email": "mihir@example.com",
+      "phone": "112345678",
+      "website": "mihir.com",
+      "address": {
+        "street": "123 Street",
+        "suite": "Apt 45",
+        "city": "Cityville",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "loginext Company"
+      }
+    }
+  ]
+}
